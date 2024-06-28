@@ -1,89 +1,85 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `Congratulations, Adventurer,
+  pc: `You find a second chest with a letter:
 
-You've found the second chest! Inside, you'll discover more about me and my interests:
+---
 
-I am interested in Blender and 3D arts, spending much of my time watching YouTube tutorials on how to create intricate 3D models. Additionally, I've made significant contributions to Club projects. One of my most memorable experiences was working with a team to recreate my entire SRM college in Unreal Engine. In my free time, I am fond of design work and love editing videos using Adobe After Effects, where I can bring my creative ideas to life. I made my intro using Adobe After Effects.
+*Congratulations, Adventurer,*
 
-I love to imagine creative things, and my mind is often full of these ideas.
+You've found the second chest! Here’s more about me:
 
-Just above where you found the first chests, hidden nearby, there lies a secret. Look for a golden bag where I keep something important to me. To discover more about my intro and what I've worked on, head towards the golden bag.
+I enjoy Blender and 3D arts, often watching YouTube tutorials to improve my skills. I've contributed to Club projects, notably recreating my SRM college in Unreal Engine. In my free time, I love designing and editing videos using Adobe After Effects. I even made my intro with it.
 
-If you'd like to explore further, here is my <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Github</a> where you can see some of my projects and contributions. Feel free to take a look!
+Look nearby for a golden bag with something important to me. To learn more, including my intro and projects, head to the golden bag. You can also explore my <a href="https://github.com/OmkarGambhir" target="_blank">Github</a> where you can see some of my projects and contributions. Feel free to take a look!
+to see my work.
 
 Best regards,
 
 Omkar Gambhir
 
-"As you finish reading, you get to know more about Omkar Gambhir. With the hint of the golden bag in mind, you set off to uncover more about his aspirations and secrets hidden within the Enchanted Forest."`,
+---
+
+With the hint of the golden bag in mind, you continue your journey to uncover more of Omkar Gambhir's aspirations and secrets in the Enchanted Forest.`,
 
 
 
 
 
-"cs-degree": `Congratulations, Adventurer,
+"cs-degree": `You find the golden bag with a note:
 
-You've found the golden bag! Within its folds, you discover a small note awaiting your curious eyes:
+Congratulations, Adventurer,
 
-Dear Adventurer,
-
-It fills me with joy that you've ventured this far into the enchanted forest. Here, amidst the whispering leaves and ancient trees, I've hidden glimpses of who I am and what inspires me.
-
+You've ventured far into the enchanted forest. Here, amidst the whispering leaves, I've hidden glimpses of who I am and what inspires me.
 Inside this note, hidden within th<a href="https://drive.google.com/drive/folders/1YJgwNHBFpw11NMWy9Tq3e-P6jjM8QCHv?usp=sharing" target="_blank">e</a> text, you'll find links that lead to discoveries about my passions and creations<a href="https://drive.google.com/file/d/1VCUt-zvdeY9L-ahPoyPyHvvd1zZXjixK/view?usp=drive_link" target="_blank">󠁣󠁣󠁣:</a>
 
-A mysterious key, said to unlock secrets beyond imagination.
-A potion, brewed with the essence of creativity and dreams.
-A solemn tombstone, a reminder of journeys past.
-Another chest, nestled in the far reaches of the forest, where two windmills stand tall in the distance.
-These are the pieces of my journey, crafted with love and creativity. I invite you to explore and understand the world that fuels my imagination.
+These pieces reflect my journey, crafted with love and creativity. Explore and understand the world that fuels my imagination.
 
 Best regards,
 
 Omkar Gambhir
 
-"As you read words penned by Omkar Gambhir, a sense of mystery deepens. You realize that beyond the quests and treasures, this journey has unveiled a glimpse into someone's dreams and aspirations, hidden within the enchanting depths of the forest.`,
+Reading this, you sense the mystery and realize this journey reveals Omkar Gambhir's dreams and aspirations, hidden within the forest.`,
 
 
 
 
 
 
+  "sofa-table": `*Greetings, Adventurer!*
 
-  "sofa-table": `you notice a wooden chest covered in moss. As you approach and open it, you find a weathered scroll inside. Unfurling it, you begin to read the elegant, handwritten script: 
+Welcome to the Enchanted Forest. I am Omkar Gambhir, a CSE student and explorer. My skills in software engineering help me navigate and understand the ancient runes and secrets of this forest. My connection with technology and nature helps me uncover hidden paths and allies within these woods. 
 
-Greetings, Adventurer!
+Look for more letters hidden throughout the forest, each revealing more about my adventures and skills.
 
-Welcome to the Enchanted Forest. I am Omkar Gambhir, a CSE student specializing in software engineering and a part-time explorer. My journey began with tales of this mystical place, where magic and adventure intertwine.
+For guidance, seek me out. The forest and I are here to help.
 
-As a software engineering student, I bring a logical mind and problem-solving skills to navigate and understand the ancient runes and secrets of this forest. My bond with technology and nature allows me to uncover hidden paths and allies within these woods.\n
-
-You may find more letters like this one hidden in unexpected places, such as keys, potions, graveyards, or other chests. Each letter will tell you more about me, like a portfolio of my adventures and skills.
-
-Should you need guidance, seek me out. The forest and I are here to aid your journey.
-
-"As you finish reading, a warm breeze rustles the leaves around you, almost as if the forest itself is welcoming you. As you venture deeper into the forest, you come across a quiet graveyard. Here, you find another letter"`,
+A warm breeze welcomes you. Venturing deeper, you find a graveyard and another letter.`,
 
 
+  tv: `You find a letter in a graveyard:
 
-  tv: `Hello again, Adventurer,
+---
 
-In my spare time, I find solace in exploring the vast world of YouTube. I often watch videos about animations and 3D modeling, marveling at the creativity and skill of the artists. From these videos, I learn so many new things and often find myself imagining exploring the environments they create.
+*Hello again, Adventurer,*
 
-I got into 3D modeling when the pandemic started, and it has been a fascinating journey ever since. It allowed me to express my creative thoughts on a canvas and bring my imagination to life. This very game world you are exploring now was created by me, a testament to my passion and dedication.
+In my spare time, I explore YouTube, especially videos on animations and 3D modeling. I began 3D modeling during the pandemic, and it has been a fascinating journey, allowing me to bring my imagination to life. This game world you're exploring is my creation.
 
-Oh, and if you’re wondering why you found this letter in a graveyard, it’s because I spend so much time sitting in one place, watching and learning from YouTube, that I’m practically part of the undead now. Hence, the bones and the graveyard! But hey, at least I’m a knowledgeable skeleton.
+I spend so much time learning from YouTube that I joke about being part of the undead—hence, this letter in a graveyard!
 
-Before you continue, let me give you a hint: near the heart of this forest, between a towering green tree and a smaller sapling, another chest awaits you. Inside, you'll find a wealth of information about my interests, inspirations, and dreams.
+A hint: near the heart of the forest, between a tall tree and a sapling, another chest awaits with more about my interests and dreams.
 
-Continue your journey, and you may discover more about my passions and interests scattered throughout the forest.
+Continue your journey to discover more about me.
 
-Reagrads,
+---
+
+*Regards,*
 
 Omkar Gambhir
 
-"With this new piece of insight and a playful hint in mind, you continue your adventure, eager to uncover more about the mysterious and humorously undead Omkar Gambhir."`,
+---
+
+With a playful hint in mind, you continue your adventure, eager to learn more about Omkar Gambhir.`,
 
 
 
