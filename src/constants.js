@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `You find a second chest with a letter:
+  pc: `
 
 ---
 
@@ -16,7 +16,7 @@ to see my work.
 
 Best regards,
 
-Omkar Gambhir
+Omkar Gambhir ඞ
 
 ---
 
@@ -26,7 +26,7 @@ With the hint of the golden bag in mind, you continue your journey to uncover mo
 
 
 
-"cs-degree": `You find the golden bag with a note:
+"cs-degree": `
 
 Congratulations, Adventurer,
 
@@ -57,7 +57,7 @@ For guidance, seek me out. The forest and I are here to help.
 A warm breeze welcomes you. Venturing deeper, you find a graveyard and another letter.`,
 
 
-  tv: `You find a letter in a graveyard:
+  tv: `
 
 ---
 
